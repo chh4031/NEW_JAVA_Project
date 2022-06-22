@@ -1,0 +1,29 @@
+package section06_03;
+
+public class exam04_01_p239 {
+	//필드
+	String company = "현대자동차";
+	String model;
+	String color;
+	int maxspeed;
+	
+	//생성자
+	exam04_01_p239(){//기본 생성자	
+	}
+	
+	exam04_01_p239(String model){//오버라이딩을 해서 생성자를 또 만듬.단 매개변수의 이름만 바꾸는 것은 오버라이딩이 아니다. 생성자 똑같은거 또 만들면 오류뜸
+		this.model = model;
+	}
+	
+	exam04_01_p239(String model, String color){//오버라이딩으로 생성자 추가
+		this.model = model;
+		this.color = color;
+	}
+	
+	exam04_01_p239(String model, String color, int maxspeed){//오버라이딩으로 생성자 추가
+		this.model = model;
+		this.color = color;
+		this.maxspeed = maxspeed;
+	}
+
+}
