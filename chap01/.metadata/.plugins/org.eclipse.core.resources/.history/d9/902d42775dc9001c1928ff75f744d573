@@ -1,0 +1,10 @@
+package section06_03;
+
+public class exam04_p239 {
+	public static void main(String[] args) {
+		
+		exam04_01_p239 car1 = new exam04_01_p239();
+		System.out.println("car1.company : " + car1.company);
+		System.out.println("\n");
+	}
+}

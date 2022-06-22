@@ -1,0 +1,10 @@
+package section06_02;
+
+public class exam02_p228 {
+	public static void main(String[] args) {
+		exam02_01_p228 typeField = new exam02_01_p228();
+		
+		System.out.println("바이트 타입 필드값 : " + typeField.byteField);
+	}
+
+}

@@ -1,0 +1,12 @@
+package section06_02;
+
+public class exam01_p227 {
+	public static void main(String[] args) {
+		//객체의 생성, 인스턴트화
+		exam01_01_p227 myCar = new exam01_01_p227();
+		
+		//필드의 값을 읽기
+		System.out.println("제작회사 : " + myCar.company);//.연산자는 개체 접근 연산자로 객체가 가진 필드나 메소드를 쓰고자 할 때 사용, 필드의 company 값을 읽어들임.
+	}
+
+}

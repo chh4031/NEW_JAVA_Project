@@ -1,0 +1,9 @@
+package section06_03;
+
+public class exam02_01_p236 {
+	//필드
+	String nation = "대한민국";//필드에서 값을 지정해 초기화 했다.
+	String name;
+	String ssn;
+	//그러나 name과 ssn은 따로 값을 지정해주지 않았다.
+}
