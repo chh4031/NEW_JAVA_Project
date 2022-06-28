@@ -25,11 +25,12 @@ public class quiz04_p161 {
 
 }
 
-/*for (i=1;i<5;i++){
- * for(h=1;h<=i;h++){
- * System.out.print("*");
- * if(h==i){
- * System.out.println();
- * }
- * }
+/*
+ * for (i=1;i<5;i++){
+ * 		for(h=1;h<=i;h++){
+ * 			System.out.print("*");
+ * 			if(h==i){
+ * 				System.out.println();
+ * 			}
+ * 		}
  */

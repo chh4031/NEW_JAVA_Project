@@ -15,6 +15,9 @@ public class exam08_p144 {
 		case "삼번":
 			System.out.println("값은 " + gd);
 			break;
+		}
+	}
 }
-}
-}
+/*
+ * 자스만 가능하다고 했는데 의외로 가능함.
+ */

@@ -19,13 +19,14 @@ public class quiz05_p161 {
 	}
 }
 
-/*for(i=1;i<5;i++){
- * for(h=4;h>0;h--){
- * if(i<h){
- * System.out.print(" ");
- * }else{
- * System.out.print("*");
- * }
- * }
- * System.out.println();
+/*
+ * for(i=1;i<5;i++){
+ * 		for(h=4;h>0;h--){
+ * 			if(i<h){
+ * 				System.out.print(" ");
+ * 			}else{
+ * 				System.out.print("*");
+ * 			}
+ * 		}
+ * 	System.out.println();
  */
