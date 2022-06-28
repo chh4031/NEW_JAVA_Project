@@ -21,6 +21,7 @@ public class ArrayListTest {
 		for(int i = 0; i< names.size(); i++) {
 			System.out.printf("%s ", names.get(i));
 		}
+		System.out.println(removed);
 		/*size는 배열의 사이즈
 		 * get은 해당 인덱스의 값을 가져오다.
 		 * gkwk
