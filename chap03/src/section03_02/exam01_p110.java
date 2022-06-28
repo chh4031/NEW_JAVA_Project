@@ -17,3 +17,4 @@ public class exam01_p110 {
 	}
 
 }
+//부호 연산의 결과는 int

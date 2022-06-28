@@ -17,5 +17,6 @@ public class quiz01_p129 {
 		else {
 			System.out.println("결과값 무한대");
 		}
+		sc.close();//블록 구문 안에서의 닫기 (close())
 	}
-	}
+}

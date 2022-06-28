@@ -7,8 +7,9 @@ public class exam02_p112 {
 		int z;
 		
 		System.out.println("------");
-		x++;
-		++x;
+		x++;//후치
+		System.out.println(x);
+		++x;//전치
 		System.out.println(x);
 		
 		System.out.println("------");
