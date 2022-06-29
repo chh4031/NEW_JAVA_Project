@@ -12,3 +12,7 @@ public class quiz02_p231 {
 	}
 
 }
+/*
+ * 생성자 사용
+ * quiz01_p230 member = new quiz01_p230(최하얀, id, passward, 23);
+*/
